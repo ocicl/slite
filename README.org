@@ -2,9 +2,8 @@
 
 a SLIme-based TEst runner for FiveAM and Parachute Tests
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tdrhq/slite.git   |
-| commit  | b8091bb  |
-| systems | slite |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------|
+| source  | git:https://github.com/tdrhq/slite.git |
+| commit  | da18d96                                |
+| systems | slite                                  |
+|---------+----------------------------------------|
